@@ -1,4 +1,4 @@
-# Jarvis: Your Intelligent Assistant
+# Jarvis: Your AI-Powered Project Manager
 
 Welcome to **Jarvis**, a versatile and intelligent assistant designed to streamline your project management and scheduling needs. Whether you're organizing Trello boards or scheduling meetings on Google Calendar, Jarvis is here to help you work smarter, not harder.
 
